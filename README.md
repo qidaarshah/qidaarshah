@@ -22,13 +22,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
----
-
-## 🚩 Featured Project
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qidaarshah&repo=dojo-automation&theme=radical)](https://github.com/qidaarshah/dojo-automation)
-
-> Dive into my main automation project, where I experiment and grow my automation skills!
 
 ---
 
