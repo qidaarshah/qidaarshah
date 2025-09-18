@@ -27,7 +27,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qidaarshah&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qidaarshah&layout=compact&theme=radical)
 
 ---
